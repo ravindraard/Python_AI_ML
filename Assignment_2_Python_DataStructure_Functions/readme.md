@@ -1,1 +1,1 @@
-Assignment 2 - coverrs data structres, strings and functions
+Assignment 2 - covers data structres, strings and functions
