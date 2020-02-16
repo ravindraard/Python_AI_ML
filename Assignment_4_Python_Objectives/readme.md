@@ -1,0 +1,1 @@
+Python objective assignment
